@@ -2,7 +2,6 @@
 
 Author: Oluwole Akinola
 ## Data
-
 	- The JW300 Word English-Yoruba dataset.
 Set | Source | Target | Entries	
 --- | --- | --- | ---
