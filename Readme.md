@@ -1,14 +1,21 @@
-# English to Yoruba
+# English to Yorùbá
 
 Author: Oluwole Akinola
 ## Data
 
 	- The JW300 Word English-Yoruba dataset.
+Set | Source | Target | Entries	
+--- | --- | --- | ---
+Train | English | Yorùbá | 415801
+Dev | English | Yorùbá | 1000
+Test | English | Yorùbá | 2665
 
 ## Model
 
 - Default Masakhane Transformer translation model.
-- [Link to google drive folder with models](https://drive.google.com/open?id=19hSc8eNY6iXy3rxHmicrFCRRlSaQIxIx)
+- [Link to google drive folder with models](https://drive.google.com/drive/u/1/folders/15Ths1DpuB-P5Ag-QHNHYxNs34pD-k8Wz)
+
+
 
 ## Analysis
 
@@ -46,4 +53,4 @@ Example 4
 
 Tokenization | BLEU dev | BLEU test
 --- | --- | ---
-BPE| 29.15 | 34.90
+Word | 27.64 | 34.90
